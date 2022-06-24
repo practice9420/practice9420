@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
   
 
 ### <div align="center">I'm BugMan, a full-time full-stack Python developer 👨‍💻 working remotely since 2019 🚀.</div>  
@@ -85,13 +86,21 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=practice9420&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=practice9420&hide_border=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" align="center" /></div>  
 
 <br/>  
 
 
 ## Recent Blog Posts  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=practice9420&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=practice9420&show_icons=true&count_private=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" align="center" /></div> 
+
+
+
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=practice9420&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</div>
+
+
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=practice9420&&style=flat-square" align="center" />
