@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-  
+
 
 ### <div align="center">I'm BugMan, a full-time full-stack Python developer 👨‍💻 working remotely since 2019 🚀.</div>  
 
@@ -68,31 +68,18 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
 </div>
-
 </td></tr></table>  
 
-<br/>  
+<br/>
 
+---
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/practice9420" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=practice9420&hide_border=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=practice9420&show_icons=true&count_private=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" align="center" /></div> 
+<div>
+  <a href="https://github.com/practice9420">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=practice9420&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=practice9420&layout=compact&langs_count=6&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+    </a>
+</div>
 
 
 
