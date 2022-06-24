@@ -73,11 +73,12 @@
 ## 
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmed-dev-dragon&show_icons=true&theme=gotham&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
   <a href="https://github.com/practice9420">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-dev-dragon&layout=compact&hide=html,hack,css&theme=gotham&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=practice9420&show_icons=true&theme=gotham&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=practice9420&layout=compact&hide=html,hack,css&theme=gotham&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
     </a>
 </div>
+
 
 
 
@@ -105,7 +106,6 @@
                 />
             </a>
 </div>  
-
 <br />
 
 ----
