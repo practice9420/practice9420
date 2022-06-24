@@ -81,6 +81,13 @@
     </a>
 </div>
 
+<div>
+  <a href="https://github.com/practice9420">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-dev-dragon&layout=compact&hide=html,hack,css&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmed-dev-dragon&show_icons=true&theme=gotham&count_private=true"/>
+    </a>
+</div>
+
 
 <div align="center">
 
